@@ -16,3 +16,4 @@ Welcome to the **Vigilint** This project is dedicated to keeping you up-to-date 
 *Creating Waitlist Page!*
 
 
+
