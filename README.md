@@ -1,4 +1,4 @@
-# Cybersecurity Daily News
+# Vigilant
 Welcome to the **Vigilint** This project is dedicated to keeping you up-to-date with the latest trends, threats, and insights in the world of cybersecurity. With daily updates, custom content from industry professionals, and opportunities for aspiring writers to contribute, this newsletter aims to be your go-to source for cybersecurity news.
 
 ## Features
