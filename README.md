@@ -3,8 +3,11 @@ Welcome to the ****Vigilint**** This project is dedicated to keeping you up-to-d
 
 ## Features
 - ***Daily News Updates:*** Get the latest news in Cybersecurity, covreing topics like Data Breaches, Malware, Vulnerabilties, Cyber-Policy, and Much More!
+  
 - ***Custom Writers:*** Content written by Cybersecurity Enthusiasts and Professionals to ensure quality and variety!
+  
 - ***User Registration and Profile Management:*** Users are able to register, create profiles, and bookmark articles they enjoy!
+  
 - ***Personalized News Feed:*** Enable readers to customize their feeds based on preferred topics!
 
 ## Project Goals
